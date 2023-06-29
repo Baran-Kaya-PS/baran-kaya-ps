@@ -3,13 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baran-kaya-ps&label=Profile%20views&color=0e75b6&style=flat" alt="baran-kaya-ps" /> </p>
 
-- 🔭 I’m currently working on [Yoga course application](https://github.com/Baran-Kaya-PS/Yoga)
-
-- 🌱 I’m currently learning **| Rust | REST API | JavaScript**
-
-- 👯 I’m looking to collaborate on **Create a game engine**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Baran-Kaya-PS](https://github.com/Baran-Kaya-PS)
+- 🌱 I’m currently learning **| Spring |**
 
 - My favorite programming language is **Java !**
 
