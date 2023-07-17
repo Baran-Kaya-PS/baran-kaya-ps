@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baran-kaya-ps&label=Profile%20views&color=0e75b6&style=flat" alt="baran-kaya-ps" /> </p>
 
-- 🌱 I’m currently learning **| Spring |**
+- 🌱 I’m currently working on **| Data Structures implementation in C |**
 
 - My favorite programming language is **Java !**
 
