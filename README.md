@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baran-kaya-ps&label=Profile%20views&color=0e75b6&style=flat" alt="baran-kaya-ps" /> </p>
 
-- 🌱 I’m currently working on **| Data Structures & Algorithms implementation in Java |**
-
-- My favorite programming language is **Java !**
-
 - 📫 How to reach me **baran.kaya@etu.iut-tlse3.fr**
 
 - My discord : **barann#0056**
