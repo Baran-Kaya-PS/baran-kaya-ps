@@ -1,8 +1,22 @@
-<h1 align="center">Hi 👋, I'm Baran</h1>
-<h3 align="center">A passionate developer from France</h3>
+## Hi, I'm Baran
 
+Engineering student in cognitive science at [ENSC](https://ensc.bordeaux-inp.fr/) (Bordeaux INP), after a BUT in Computer Science (IUT Toulouse) and a CPGE ATS.
 
-- 📫 How to reach me **ky.baran31@gmail.com**
+I am interested in research at the crossroads of signal processing, neuroscience and cognition, and I am looking for an internship in that area.
 
-- My discord : **barann#0056**
+### Projects
 
+- **[Moteur de recherche et de recommandation](https://github.com/Baran-Kaya-PS/Moteur-de-recherche-et-de-recommandation)**: TV series search and recommendation engine (Spring Boot, MongoDB, TF-IDF, cosine similarity)
+- **[Traitement automatique du langage naturel](https://github.com/Baran-Kaya-PS/Traitement-automatique-du-langage-naturel)**: NLP pipeline that turns subtitles into TF-IDF vectors (Python, scikit-learn, NLTK)
+- **[LeastSquareSolver](https://github.com/Baran-Kaya-PS/LeastSquareSolver)**: least-squares solver from scratch with NumPy (in progress)
+- **[ATOCpp](https://github.com/Baran-Kaya-PS/ATOCpp)**: learning modern C++ with *A Tour of C++*
+- **[C Learning Journey](https://github.com/Baran-Kaya-PS/C-Learning-Journey)**: pointers, memory and modular programs in C
+- **[PyT](https://github.com/Baran-Kaya-PS/PyT)**: Python and its standard library, exercise by exercise
+
+### Languages
+
+Python · C · C++ · Java
+
+### Contact
+
+ky.baran31@gmail.com
